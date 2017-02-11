@@ -1,0 +1,89 @@
+body
+{
+  background-color: black;
+  color: white;
+  }
+
+h1, h2, h3, h4, h5, h6
+{
+  letter-spacing: 1.5px;
+  font-family: 'Athiti', sans-serif;
+  font-weight: bold;
+  }
+
+header
+{
+  font-size: 5.5em;
+  letter-spacing: 2px;
+}
+
+nav{
+  margin-top: 2em;
+  }
+
+span
+{
+  font-family: 'Athiti', sans-serif;
+  }
+  
+address{
+  font-size: 1.3em;
+  }  
+
+footer
+{
+  margin:2em;
+  text-align: center;
+  color: grey;
+  }
+
+li
+{
+  list-style-type: none;
+  text-align: left;
+  letter-spacing: .8px;
+  list-style-position: outside;
+  margin: .2em 0;
+  font-family: 'Mako', sans-serif;
+  }
+
+main
+{
+  margin-top: 3em;
+  padding-bottom: 3em;
+  }
+
+aside
+{
+  margin-top: 3em;
+  border-radius: 5px;
+  background-color: grey;
+  padding: 2em;
+  }
+  
+#me
+{
+  width: 100%;
+  }
+
+#res > h4
+{
+  margin-top: 1em;
+  font-size: 1.8em;
+  }
+
+#category > h5
+{
+  margin-left: 1em;
+  font-size: 1em;
+  }
+
+#thumb
+{
+  width: 100%;
+  margin: auto;
+  border: 1px solid white;
+  padding: .5em;1
+  }
+
+
