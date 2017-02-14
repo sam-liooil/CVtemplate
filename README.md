@@ -1,1 +1,3 @@
-liooil CV template for creative engineers and artists
+CV template for anyone who want to use it
+
+enjoy ∆

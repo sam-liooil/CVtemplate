@@ -61,6 +61,11 @@ aside
   padding: 2em;
   }
   
+.date
+{
+  float:right;
+  }  
+  
 #me
 {
   width: 100%;
@@ -82,8 +87,6 @@ aside
 {
   width: 100%;
   margin: auto;
-  border: 1px solid white;
-  padding: .5em;1
+  padding: .5em;
   }
-
 
